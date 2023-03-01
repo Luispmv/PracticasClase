@@ -1,0 +1,200 @@
+*{
+    background-color: aliceblue;
+}
+
+div{
+    text-align: center;
+}
+.div_papa{
+    width: 500px;
+    height: 500px;
+}
+#dia{
+   border: solid;
+    width: 105px;
+    height: 100px;
+    position: relative;
+    top: -3px;
+    left: 0px;
+}
+#seminario{
+    border: solid;
+    position: relative;
+    top: -109px;
+    width: 396px;
+    left: 104px;
+}
+#Horario{
+    position: relative;
+    border: solid;
+    width: 194px;
+    height: 20px;
+    left: 103px;
+    bottom: 112px;
+}
+#Inicio{
+    position: relative;
+    border: solid;
+    width: 100px;
+    left: 103px;
+    bottom: 115px;
+    height: 56px;
+}
+#Fin{
+    position: relative;
+    border: solid;
+    width: 90px;
+    bottom: 177px;
+    left: 206px;
+    height: 56px;
+}
+#Tema{
+    position: relative;
+    border: solid;
+    width: 201px;
+    height: 79px;
+    bottom: 262px;
+    left: 299px;
+}
+#Lunes{
+    position: relative;
+    border: solid;
+    width: 103px;
+    height: 100px;
+    bottom: 403px;
+}
+#ocho{
+    position: relative;
+    width: 100px;
+    height: 100px;
+    bottom: 509px;
+    border: solid;
+    left: 106px;
+}
+#cinco{
+    position: relative;
+    border: solid;
+    height: 100px;
+    width: 87px;
+    bottom: 615px;
+    left: 209px;
+}
+#introduccion{
+    height: 49px;
+    width: 201px;
+    border: solid;
+    position: relative;
+    bottom: 721px;
+    left: 299px;
+}
+#Validacion{
+    position: relative;
+    border: solid;
+    left: 299px;
+    bottom: 724px;
+    width: 201px;
+    height: 48px;
+}
+#jueves{
+    position: relative;
+    border: solid;
+    width: 103px;
+    height: 100px;
+    bottom: 727px;
+}
+#tablita1{
+    position: relative;
+    border: solid;
+    width: 100px;
+    height: 28px;
+    bottom: 833px;
+    left: 106px;
+}
+#tablita2{
+    position: relative;
+    border: solid;
+    width: 87px;
+    height: 28px;
+    bottom: 867px;
+    left: 209px;
+}
+#tablita3{
+    position: relative;
+    border: solid;
+    width: 87px;
+    height: 28px;
+    bottom: 870px;
+    left: 209px;
+}
+
+#tablita4{
+    position: relative;
+    border: solid;
+    width: 99px;
+    height: 28px;
+    bottom: 904px;
+    left: 107px;
+}
+#tablita5{
+    position: relative;
+    border: solid;
+    width: 100px;
+    height: 38px;
+    bottom: 907px;
+    left: 106px;
+}
+#tablita6{
+    position: relative;
+    border: solid;
+    width: 87px;
+    height: 38px;
+    bottom: 951px;
+    left: 209px;
+}
+#XPath{
+    position: relative;
+    border: solid;
+    width: 201px;
+    height: 47px;
+    bottom: 1057px;
+    left: 299px;
+}
+#XSL_Transfomr{
+    position: relative;
+    border: solid;
+    width: 201px;
+    height: 51px;
+    bottom: 1061px;
+    left: 299px;
+}
+#Miercoles{
+  position: relative;
+    border: solid;
+    width: 103px;
+    height: 33px;
+    bottom: 1063px;
+}
+#tablita7{
+   position: relative;
+    border: solid;
+    width: 100px;
+    height: 33px;
+    bottom: 1102px;
+    left: 106px;
+}
+#tablita8{
+      position: relative;
+    border: solid;
+    width: 87px;
+    height: 34px;
+    bottom: 1142px;
+    left: 209px;
+}
+#XSL_formating{
+    position: relative;
+    border: solid;
+    width: 201px;
+    height: 33px;
+    bottom: 1181px;
+    left: 299px;
+}

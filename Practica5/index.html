@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formularios</title>
+</head>
+<body>
+    <form action="">
+        <label for="nombre">Nombre: </label>
+        <input type="text" name="nombre" id="nombre" placeholder="nombre" required>
+        
+        <label for="apellido">Apellido</label>
+        <input type="text" name="apellido" id="apellido" placeholder="apellido" required>
+    
+        <input type="submit">
+    </form>
+
+    <hr>
+
+    <form action="">
+        <fieldset>
+            <label for="nombre">Nombre</label>
+            <input type="text" name="nombre" id="nombre_dos" placeholder="ingresa tu nombre">
+        
+            <label for="correo">Correo</label>
+            <input type="email" required name="email" id="email" placeholder="Correo electronico">
+            <button>Entrar</button>
+
+            <label for="edad">
+            <input type="number" name="edad" id="edad" placeholder="edad" step="any">
+
+            
+            <br><br><br>
+            <label for="lenguaje">Lenguaje</label>
+            <input type="radio" name="lenguaje" id="js">Javascript
+            <input type="radio" name="lenguaje" id="js">Javascript
+            <input type="radio" name="lenguaje" id="js">Javascript
+            </label>
+            <br><br><br>
+            <button>enviar</button>
+
+            <label for="paises"></label>
+            <input type="checkbox" name="EUA" id="EUA">Estados Unidos
+            <input type="checkbox" name="CA" id="CA">Canada
+            <br><br><br>
+            <label for="mensaje">Mensaje o comentario</label>
+            <BR></BR>
+            <textarea name="mensaje" id="mensaje" cols="30" rows="10"></textarea>
+            <br><br><br>
+            <button>Enviar </button>
+        </fieldset>
+    </form>
+</body>
+</html>
