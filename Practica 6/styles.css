@@ -1,0 +1,40 @@
+*{
+    font-size: 2rem;
+    background-color: brown;
+    font-family: cursive;
+}
+p{
+    color: darkorange;
+    text-align: center;
+}
+.seleccionado {
+    color: green;
+    font-size: 30px;
+    text-align: center;
+    width: 100%;
+    border-style: none;
+}
+.seleccionado:hover{
+    font-size: 40px;
+}
+.grupo_de_parafos{
+    border: solid;
+    border-color: rgb(214, 228, 17);
+}
+.grupo_de_parafos::first-letter{
+    color: blue;
+    font-size: 4rem;
+}
+#p2{
+    color: darkgoldenrod;
+}
+#p2:hover{
+    font-size: 4rem;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#p3{
+    color: darkmagenta;
+}
+a{
+    font-size: 1rem;
+}
